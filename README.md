@@ -1,7 +1,7 @@
 # OQC
 Python developed console program, designed to take qubit frequency and coupling information and output the hamiltonian.
 
-To run, execute the main file using the following command in your terminal:
+To run, execute the main.py file using the following command in your terminal:
 
 python3 main.py
 
