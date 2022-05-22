@@ -5,7 +5,9 @@ To run, execute the main.py file using the following command in your terminal, f
 
 python3 main.py
 
-You will be greeted with the following message, explaining how to use the software:
+Numpy package required to run.
+
+You will be greeted with the following message, explaining how to use the program:
 
           "Please define each qubit, in turn, on a separate line using the following format:"
           "<type> <frequency> [parameters]. Each value should be separated by a space."
