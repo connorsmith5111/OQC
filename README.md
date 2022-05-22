@@ -33,4 +33,5 @@ Please see Mathematical Problems.pdf for the solutions to the math questions.
 
 Note: If you have time and would to see some other examples of OOP in the context of QC, I have previously developed a game
 which simulates qubit transformations and other quantum phenomena. If you would like to have a look, it's a public repository
-titled Quboid. 
+titled Quboid:
+https://github.com/connorsmith5111/Quboid
