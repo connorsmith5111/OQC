@@ -28,3 +28,9 @@ You will be greeted with the following message, explaining how to use the progra
           "       length_1 height_1 length_2 height_2              Rectanglemon parameter list"
           "EXAMPLE INPUT:"
           "       c 10.0 4.2 5.5 6.0"
+
+Please see Mathematical Problems.pdf for the solutions to the math questions. 
+
+Note: If you have time and would to see some other examples of OOP in the context of QC, I have previously developed a game
+which simulates qubit transformations and other quantum phenomena. If you would like to have a look, it's a public repository
+titled Quboid. 
